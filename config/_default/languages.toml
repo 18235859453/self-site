@@ -1,0 +1,15 @@
+[zh-cn]
+  label  = "简体中文"
+  title  = "ShiMing's Blog"
+  weight = 1
+
+  [zh-cn.params.sidebar]
+    subtitle = "记录学习与思考"
+
+[en]
+  label  = "English"
+  title  = "ShiMing's Blog"
+  weight = 2
+
+  [en.params.sidebar]
+    subtitle = "Learning & Thinking"
