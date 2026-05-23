@@ -4,3 +4,10 @@
   url        = "https://github.com/18235859453"
   [social.params]
     icon = "brand-github"
+
+[[social]]
+  identifier = "bilibili"
+  name       = "Bilibili"
+  url        = "https://space.bilibili.com/513520210"
+  [social.params]
+    icon = "brand-bilibili"
