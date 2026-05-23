@@ -13,3 +13,11 @@
   url        = "https://space.bilibili.com/513520210"
   [social.params]
     icon = "brand-bilibili"
+
+[[social]]
+  identifier = "douyin"
+  name       = "Douyin"
+  weight     = 3
+  url        = "https://v.douyin.com/lG7AFwFJFMA/"
+  [social.params]
+    icon = "brand-douyin"
