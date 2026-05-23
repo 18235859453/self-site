@@ -1,0 +1,15 @@
+baseURL = 'https://18235859453.github.io/self-site/'
+locale = 'zh-cn'
+title = "ShiMing's Blog"
+hasCJKLanguage = true
+defaultContentLanguage = 'zh-cn'
+
+[[module.imports]]
+  path = "github.com/CaiJimmy/hugo-theme-stack/v4"
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  post = "/p/:slug/"
+  page = "/:slug/"
