@@ -25,7 +25,21 @@ favicon = "img/avatar.jpg"
   page = [{ type = "toc" }]
 
 [comments]
-  enabled = false
+  enabled  = true
+  provider = "giscus"
+
+  [comments.giscus]
+    repo             = "18235859453/self-site"
+    repoID           = "R_kgDOSliSnQ"
+    category         = "General"
+    categoryID       = "DIC_kwDOSliSnc4C9qaS"
+    mapping          = "title"
+    lightTheme       = "light"
+    darkTheme        = "dark_dimmed"
+    reactionsEnabled = 1
+    emitMetadata     = 0
+    inputPosition    = "top"
+    lang             = "zh-CN"
 
 [cookies]
   enabled = false
