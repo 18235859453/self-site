@@ -7,7 +7,6 @@ favicon = "img/avatar.jpg"
 
 [sidebar]
   avatar = "img/avatar.jpg"
-  emoji = "📝"
   subtitle = "记录学习与思考"
 
 [article]
