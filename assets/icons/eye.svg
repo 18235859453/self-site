@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-eye" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+  <path d="M21 12c-2.667 4.667 -6.667 7 -9 7s-6.333 -2.333 -9 -7c2.667 -4.667 6.667 -7 9 -7s6.333 2.333 9 7" />
+</svg>

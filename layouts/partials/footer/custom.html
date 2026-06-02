@@ -1,0 +1,10 @@
+{{- if and .Site.Params.pageview.enabled (eq .Site.Params.pageview.provider "waline") -}}
+{{- $serverURL := .Site.Params.pageview.waline.serverURL -}}
+<script type="module">
+  import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js';
+  pageviewCount({
+    serverURL: '{{ $serverURL }}',
+    path: window.location.pathname,
+  });
+</script>
+{{- end -}}

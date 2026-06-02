@@ -1,0 +1,26 @@
+{{- if and .Site.Params.pageview.enabled (eq .Site.Params.pageview.provider "waline") -}}
+<section class="article-pageview inline-meta">
+    {{ partial "helper/icon" "eye" }}
+    <span>
+        {{ T "article.pageViews" }}&nbsp;<span class="waline-pageview-count" data-path="{{ .RelPermalink }}">0</span>&nbsp;{{ T "article.pageViewsTimes" }}
+    </span>
+</section>
+{{- end -}}
+
+{{ partial "article/components/tags" . }}
+
+{{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
+<section class="article-copyright inline-meta">
+    {{ partial "helper/icon" "copyright" }}
+    <span>{{ default .Site.Params.article.license.default .Params.license | markdownify }}</span>
+</section>
+{{ end }}
+
+{{- if ne .Lastmod .Date -}}
+<section class="article-lastmod inline-meta">
+    {{ partial "helper/icon" "clock" }}
+    <span>
+        {{ T "article.lastUpdatedOn" }} {{ .Lastmod | time.Format .Site.Params.dateFormat.lastUpdated }}
+    </span>
+</section>
+{{- end -}}
