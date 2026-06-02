@@ -40,13 +40,6 @@ favicon = "img/avatar.jpg"
     inputPosition    = "top"
     lang             = "zh-CN"
 
-[pageview]
-  enabled  = true
-  provider = "waline"
-
-  [pageview.waline]
-    serverURL = "https://comment-chi-sepia.vercel.app"
-
 [cookies]
   enabled = false
 

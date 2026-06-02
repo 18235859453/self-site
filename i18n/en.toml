@@ -17,9 +17,6 @@ darkMode   = "Dark Mode"
     tableOfContents = "Table of contents"
     relatedContent  = "Related content"
     lastUpdatedOn   = "Last updated on"
-    pageViews       = "Views"
-    pageViewsTimes  = "times"
-
     [article.readingTime]
         one   = "{{ .Count }} minute read"
         other = "{{ .Count }} minutes read"
