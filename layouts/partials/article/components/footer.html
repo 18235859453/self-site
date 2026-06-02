@@ -1,12 +1,3 @@
-{{- if and .Site.Params.pageview.enabled (eq .Site.Params.pageview.provider "waline") -}}
-<section class="article-pageview inline-meta">
-    {{ partial "helper/icon" "eye" }}
-    <span>
-        {{ T "article.pageViews" }}&nbsp;<span class="waline-pageview-count" data-path="{{ .RelPermalink }}">0</span>&nbsp;{{ T "article.pageViewsTimes" }}
-    </span>
-</section>
-{{- end -}}
-
 {{ partial "article/components/tags" . }}
 
 {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
