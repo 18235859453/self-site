@@ -11,8 +11,9 @@ menu:
 
 ## Education
 
-- Jilin University — New-Generation Electronic Information Technology (M.Eng.) 2026-2029
-- China Jiliang University — Electronic Information Engineering (B.Eng.) 2020-2024
+China JiLiang University　  Electronic Information Eng　　    B.Eng.　　　2020-2024
+
+JiLin University　　　　　  New-Gen Electronic Info Tech　   M.Eng.　　   2026-2029
 
 ## Skills & Projects
 
