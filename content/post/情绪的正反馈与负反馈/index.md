@@ -6,9 +6,7 @@ slug: "emotional-feedback-loop"
 categories:
   - 思考
 tags:
-  - 情绪管理
-  - 心态
-  - 自我觉察
+  - 随想
 draft: false
 toc: true
 comments: true

@@ -6,9 +6,7 @@ slug: "start-right-now"
 categories:
   - 思考
 tags:
-  - 行动力
-  - 成长
-  - 心态
+  - 随想
 draft: false
 toc: true
 comments: true
