@@ -1,5 +1,5 @@
 ---
-title: "情绪的正反馈与负反馈"
+title: "情绪与状态的正反馈"
 description: "情绪和状态也遵循正反馈规律——好的越好，坏的越坏。察觉并打断负向的正反馈循环，是保持高效的关键。"
 date: 2026-07-21
 slug: "emotional-feedback-loop"
