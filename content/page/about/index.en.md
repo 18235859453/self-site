@@ -53,14 +53,14 @@ Embedded System Hardware/Software Architecture, C/C++, Python, MCU, FreeRTOS, Co
 
 ### Internships:
 
-#### Internship 1: **Zhejiang Supor Home Appliances Manufacturing Co., Ltd.** **Rice Cooker Development** **MCU Engineer**
+#### Internship 1: **Zhejiang Supor Home Appliances Manufacturing Co., Ltd.** ｜ **Rice Cooker Development** ｜ **MCU Engineer**
 
 - Responsible for MCU program debugging of rice cooker products, using the MCU to keep the heating plate temperature curve within a reasonable range
 - Participated in rice cooker hardware/software reviews, identifying and fixing potential errors in programs and PCBs
 - Responsible for releasing programs, schematics, and BOMs on TC (PLM system), including workflow release and execution
 - Familiar with prototyping and sample-sealing processes, SAP coding application process, and quotation process
 
-#### Internship 2: **Hangzhou Geliang Measurement & Control Co., Ltd.** **Winding Temperature Rise Instrument Development** **Hardware Engineer**
+#### Internship 2: **Hangzhou Geliang Measurement & Control Co., Ltd.** ｜ **Winding Temperature Rise Instrument Development** ｜ **Hardware Engineer**
 
 - Responsible for hardware circuit design of the motor/transformer winding temperature rise measurement module, including constant current source, signal conditioning, and ADC sampling circuit design, with resistance measurement accuracy up to 0.03%
 
