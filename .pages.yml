@@ -1,4 +1,8 @@
 # Pages CMS: https://pagescms.org/docs/configuration/
+settings:
+  content:
+    merge: true
+
 media:
   - name: uploads
     label: 文章图片
