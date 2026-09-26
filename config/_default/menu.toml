@@ -1,3 +1,12 @@
+[[main]]
+  identifier = "write"
+  name       = "写文章"
+  weight     = -40
+  url        = "https://app.pagescms.org/18235859453/self-site/main/collection/posts"
+  [main.params]
+    icon = "messages"
+    newTab = true
+
 [[social]]
   identifier = "github"
   name       = "GitHub"

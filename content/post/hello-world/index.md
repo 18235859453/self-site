@@ -1,6 +1,7 @@
 ---
 title: "你好，世界！"
 date: 2026-05-23
+draft: false
 description: "我的第一篇博客文章"
 categories:
   - 随笔

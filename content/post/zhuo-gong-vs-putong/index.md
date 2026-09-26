@@ -2,6 +2,7 @@
 title: 卓工专硕与普通专硕培养方案核心区别
 description: 吉林大学卓越工程师学院（珠海）专业硕士 vs 普通专业硕士——学位授予条件、成果要求与实习要求的核心差异对比。
 date: 2026-06-05
+draft: false
 slug: zhuo-gong-vs-putong-zhuanshuo
 categories:
   - 学习

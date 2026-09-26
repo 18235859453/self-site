@@ -2,6 +2,7 @@
 title: 吉林大学 0854电子信息 专硕学分修读计划
 description: 吉林大学电子科学与工程学院电子信息专业学位硕士研究生培养方案速查——学分构成、最快修读路径与完整时间线。
 date: 2026-06-05
+draft: false
 slug: jlu-credit-plan
 categories:
   - 学习

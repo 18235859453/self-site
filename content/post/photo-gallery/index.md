@@ -2,8 +2,9 @@
 title: 摄影作品
 description: 用 Stack 主题内置的相册功能展示照片
 date: 2026-05-23
+draft: false
 slug: photo-gallery
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: /self-site/uploads/photo-gallery-cover.jpg
 categories:
   - 生活
 tags:
