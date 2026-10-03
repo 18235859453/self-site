@@ -1,21 +1,21 @@
 <!doctype html>
 <html lang="zh-CN">
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex">
 <meta name="referrer" content="no-referrer">
-<meta http-equiv="refresh" content="3;url=https://shiming-private-blog.2535599412.workers.dev/self-site/">
-<title>博客已迁移 · ShiMing</title>
-<style>body{font:18px/1.8 system-ui,sans-serif;color:#263238;background:#f5f5fa;margin:15vh auto;padding:24px;max-width:560px}a{color:#235e88}h1{font-size:28px}</style>
-<h1>博客已迁移</h1>
-<p>正在前往新站，文章和评论仍可在那里阅读。</p>
-<p><a id="destination" href="https://shiming-private-blog.2535599412.workers.dev/self-site/">进入 ShiMing 的博客 →</a></p>
-<p><a href="https://app.pagescms.org/18235859453/self-site-private/main/collection/posts">站主写文章</a></p>
+<title>ShiMing's Blog</title>
 <script>
 const origin='https://shiming-private-blog.2535599412.workers.dev';
 const path=location.pathname.startsWith('/self-site/')?location.pathname:'/self-site/';
-const destination=origin+path+location.hash;
-document.getElementById('destination').href=destination;
-location.replace(destination);
+location.replace(origin+path+location.search+location.hash);
 </script>
+<noscript>
+<meta http-equiv="refresh" content="0;url=https://shiming-private-blog.2535599412.workers.dev/self-site/">
+</noscript>
+</head>
+<body>
+<noscript><p><a href="https://shiming-private-blog.2535599412.workers.dev/self-site/">进入 ShiMing 的博客 →</a></p></noscript>
+</body>
 </html>
