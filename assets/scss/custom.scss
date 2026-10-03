@@ -195,6 +195,14 @@ body {
 }
 #main-menu > li > a { border-radius: 12px; padding: 10px 12px; }
 #main-menu > li.current > a { background: var(--sky-blue); color: var(--accent-color); }
+@media (min-width: 768px) {
+    .left-sidebar > header,
+    .left-sidebar > .menu-social,
+    #main-menu > .menu-bottom-section { padding-inline: 12px; }
+
+    #main-menu > li > a { width: 100%; }
+    #main-menu > li > a > svg { flex-shrink: 0; }
+}
 .article-page .main-article {
     border: 1px solid var(--sky-line);
     .article-header {
