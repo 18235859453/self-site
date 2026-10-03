@@ -2,7 +2,7 @@
 @media (min-width: 768px) {
     .main-container {
         --main-top-padding: 40px;
-        --column-gap: 24px;
+        --column-gap: 32px;
         column-gap: var(--column-gap);
 
         &.extended { max-width: 1440px; }
@@ -58,6 +58,7 @@
 
 @media (min-width: 1024px) {
     .main-container {
+        --column-gap: 40px;
         --right-sidebar-width: 248px;
 
         > .right-sidebar {
@@ -139,7 +140,7 @@
 @media (min-width: 1280px) {
     .main-container {
         --container-padding: 32px;
-        --column-gap: 32px;
+        --column-gap: 64px;
         --right-sidebar-width: 280px;
     }
 }
